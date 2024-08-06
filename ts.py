@@ -1,4 +1,5 @@
 import sys
+import matplotlib.pyplot as plt 
 
 def main(filename):
     if not filename.endswith(".bak"):
